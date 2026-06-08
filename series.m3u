@@ -1,5 +1,36 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.serie-days.com/wp-content/uploads/2026/06/Teach-You-a-Lesson-2026-240x300.jpg" group-title="Teach You a Lesson (2026) อย่างนี้ต้องโดนสั่งสอน", EP1
+#EXTVLCOPT:http-referer=https://www.serie-days.com/
+https://main.24playerhd.com/m3u8/ba6684fcbbf4033e00afc09e/ba6684fcbbf4033e00afc09e438.m3u8
+#EXTINF:-1 tvg-logo="https://www.serie-days.com/wp-content/uploads/2026/06/Teach-You-a-Lesson-2026-240x300.jpg" group-title="Teach You a Lesson (2026) อย่างนี้ต้องโดนสั่งสอน", EP2
+#EXTVLCOPT:http-referer=https://www.serie-days.com/
+https://main.24playerhd.com/m3u8/cc0421b717608d9a6546aae7/cc0421b717608d9a6546aae7438.m3u8
+#EXTINF:-1 tvg-logo="https://www.serie-days.com/wp-content/uploads/2026/06/Teach-You-a-Lesson-2026-240x300.jpg" group-title="Teach You a Lesson (2026) อย่างนี้ต้องโดนสั่งสอน", EP3
+#EXTVLCOPT:http-referer=https://www.serie-days.com/
+https://main.24playerhd.com/m3u8/b5545ce5b4615a66dd70b6ae/b5545ce5b4615a66dd70b6ae438.m3u8
+#EXTINF:-1 tvg-logo="https://www.serie-days.com/wp-content/uploads/2026/06/Teach-You-a-Lesson-2026-240x300.jpg" group-title="Teach You a Lesson (2026) อย่างนี้ต้องโดนสั่งสอน", EP4
+#EXTVLCOPT:http-referer=https://www.serie-days.com/
+https://main.24playerhd.com/m3u8/fae097b85201b34e882af4e9/fae097b85201b34e882af4e9438.m3u8
+#EXTINF:-1 tvg-logo="https://www.serie-days.com/wp-content/uploads/2026/06/Teach-You-a-Lesson-2026-240x300.jpg" group-title="Teach You a Lesson (2026) อย่างนี้ต้องโดนสั่งสอน", EP5
+#EXTVLCOPT:http-referer=https://www.serie-days.com/
+https://main.24playerhd.com/m3u8/f695a6d1707670d93528785c/f695a6d1707670d93528785c438.m3u8
+#EXTINF:-1 tvg-logo="https://www.serie-days.com/wp-content/uploads/2026/06/Teach-You-a-Lesson-2026-240x300.jpg" group-title="Teach You a Lesson (2026) อย่างนี้ต้องโดนสั่งสอน", EP6
+#EXTVLCOPT:http-referer=https://www.serie-days.com/
+https://main.24playerhd.com/m3u8/6ff8371d9fe02ab3b6ff61d2/6ff8371d9fe02ab3b6ff61d2438.m3u8
+#EXTINF:-1 tvg-logo="https://www.serie-days.com/wp-content/uploads/2026/06/Teach-You-a-Lesson-2026-240x300.jpg" group-title="Teach You a Lesson (2026) อย่างนี้ต้องโดนสั่งสอน", EP7
+#EXTVLCOPT:http-referer=https://www.serie-days.com/
+https://main.24playerhd.com/m3u8/5f689b875b878512b2ffe3de/5f689b875b878512b2ffe3de438.m3u8
+#EXTINF:-1 tvg-logo="https://www.serie-days.com/wp-content/uploads/2026/06/Teach-You-a-Lesson-2026-240x300.jpg" group-title="Teach You a Lesson (2026) อย่างนี้ต้องโดนสั่งสอน", EP8
+#EXTVLCOPT:http-referer=https://www.serie-days.com/
+https://main.24playerhd.com/m3u8/48d3f00f0e3a99e54c35db0e/48d3f00f0e3a99e54c35db0e438.m3u8
+#EXTINF:-1 tvg-logo="https://www.serie-days.com/wp-content/uploads/2026/06/Teach-You-a-Lesson-2026-240x300.jpg" group-title="Teach You a Lesson (2026) อย่างนี้ต้องโดนสั่งสอน", EP9
+#EXTVLCOPT:http-referer=https://www.serie-days.com/
+https://main.24playerhd.com/m3u8/0fad9c246167ba27b17919b0/0fad9c246167ba27b17919b0438.m3u8
+#EXTINF:-1 tvg-logo="https://www.serie-days.com/wp-content/uploads/2026/06/Teach-You-a-Lesson-2026-240x300.jpg" group-title="Teach You a Lesson (2026) อย่างนี้ต้องโดนสั่งสอน", EP10
+#EXTVLCOPT:http-referer=https://www.serie-days.com/
+https://main.24playerhd.com/m3u8/3777e97967ce05056b8f1149/3777e97967ce05056b8f1149438.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.serie-days.com/wp-content/uploads/2026/04/Perfect-Crown-2026-240x300.jpg" group-title="Perfect Crown (2026) รักนี้มงลง", EP1
 #EXTVLCOPT:http-referer=https://www.serie-days.com/
 https://main.24playerhd.com/m3u8/eba3f19d018ebf41cdd45305/eba3f19d018ebf41cdd45305438.m3u8
